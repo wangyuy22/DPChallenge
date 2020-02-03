@@ -1,0 +1,86 @@
+/* write your code below...  */
+
+body {
+  background-color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+div.heading {
+  display: inline-block !important;
+  padding-left: 20%;
+  padding-right: 20%
+}
+
+.logo {
+  float: left;
+  width: 300px
+}
+
+.img {
+  height: 120;
+  width: 130;
+}
+
+.utb {
+  font-size: 40px;
+}
+
+.quiz-title {
+  text-align: center !important;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+  width: 600px;
+}
+
+.title {
+  display: inline-block !important;
+}
+
+.container-question {
+  margin-top: 20px;
+  width: 600px;
+  display: inline-block !important
+}
+
+.block {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.question {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.option-block {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.box {
+  vertical-align: middle; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5;
+  border: 0.5px solid rgb(19, 47, 201);
+  border-radius: 3px;
+  display: inline-block !important;
+  width: 100%
+}
+
+p.choice {
+  width: 85%;
+  float: right;
+  text-align: left;
+}
+
+.container-result {
+  margin-top: 20px;
+  width: 600px;
+  display: inline-block !important
+}

@@ -1,0 +1,17 @@
+1. How many hours did you spend on this challenge?
+
+I spent roughly 5-6 hours on this challenge.
+
+2. Describe the features you have implemented.
+
+I implemented features such as only checking one box for each question, adapting to changes in number of questions, number of options, and number of final results. Other features included the submit button, no more editing after submitting, and retaking the quiz.
+
+3. Describe the difficulties you faced (if any) while working on the challenge and how you tackled them.
+
+The main difficulty was getting some of the logic down of how to track which options are for which questions.
+
+4. How much time do you think you can spend each week working for theDP Web Department?
+
+I believe I can spend approximately 2-5 hours per week working for the theDP Web Department.
+
+5. (Optional) If there is anything you want to tell us, go ahead :)
